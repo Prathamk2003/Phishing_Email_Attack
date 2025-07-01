@@ -1,0 +1,4 @@
+2025-04-07 13:13:25,524 - INFO - Email sent successfully to pratham@gmail.com
+2025-04-10 16:46:08,840 - INFO - Email sent successfully to P@gmail.com
+2025-04-11 10:49:00,549 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-306dd1857bcsm4737104a91.45 - gsmtp')
+2025-04-11 11:53:31,127 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b02a0817e08sm4054954a12.12 - gsmtp')
