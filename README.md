@@ -30,7 +30,7 @@ This project implements a secure login system using Flask for the backend, Mongo
     * **getpass**: For securely handling password input.
 
 ## 📂 Project Structure
-
+```
 .
 ├── app.py                  # Flask backend for basic login (without encryption)
 ├── app1.py                 # Flask backend with AES encryption and decryption
@@ -42,7 +42,7 @@ This project implements a secure login system using Flask for the backend, Mongo
 ├── email_logs.log          # Log file for email sending activities
 └── package.json            # Node.js dependencies (for frontend, if any, though not strictly used in this setup)
 └── package-lock.json       # Node.js dependency lock file
-
+```
 
 ## ⚙️ Setup and Installation
 
